@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2MS_Kafka.iml" filepath="$PROJECT_DIR$/.idea/2MS_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Billing/Billing.iml" filepath="$PROJECT_DIR$/Billing/Billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer/Customer.iml" filepath="$PROJECT_DIR$/Customer/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka discovery/eureka discovery.iml" filepath="$PROJECT_DIR$/eureka discovery/eureka discovery.iml" />
+    </modules>
+  </component>
+</project>
