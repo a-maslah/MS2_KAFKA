@@ -14,7 +14,6 @@ public class Billing {
     private Long id;
     private double amount;
     private Long customerId;
-
     @Transient private Customer customer;
 
     public Billing(Long id, double amount, Long customerId) {
